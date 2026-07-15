@@ -12,7 +12,7 @@ Give your AI coding agent long-term memory. Engram stores complete conversation 
 ## Setup
 
 1. Install the plugin from the Cursor Marketplace
-2. Get an API key at [getengram.app](https://getengram.app)
+2. Get an API key at [getengram.app](https://getengram.app/signup?ref=cursor)
 3. Add your API key to Cursor settings:
    - Open Settings > MCP
    - Set `ENGRAM_API_KEY` to your key
